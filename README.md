@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harsh Arora</h1>
-<h3 align="center">I am Harsh Arora, a third-year student pursuing a Bachelor of Computer Information Systems at the University of the Fraser Valley. I am an aspiring software developer with a demonstrated history of working on web development and data analysis projects. Skilled in HTML, CSS, Java, Python, MySQL, WordPress, Wix, APIs, Adobe Photoshop, and Figma. Strong engineering professional focused on building innovative web solutions and improving user experiences.</h3>
+<h1 align="center">Hi 👋, I'm <span style="color: blue;">Harsh Arora</span></h1>
+<h4>I am Harsh Arora, a third-year student pursuing a Bachelor of Computer Information Systems at the University of the Fraser Valley. I am an aspiring software developer with a demonstrated history of working on web development and data analysis projects. Skilled in HTML, CSS, Java, Python, MySQL, WordPress, Wix, APIs, Adobe Photoshop, and Figma. Strong engineering professional focused on building innovative web solutions and improving user experiences.</h3>
 
 - 🌱 I’m currently learning **DevOps Tools like Node.js & Kubernetes**
 
