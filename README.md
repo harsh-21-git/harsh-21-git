@@ -14,3 +14,11 @@
     <img src="https://skillicons.dev/icons?i=html,css,c,vscode,idea,js,github,mongodb,mysql,python,kubernetes"><br>
     <img src="https://skillicons.dev/icons?i=wordpress,figma,pr,ai,discord,notion,linux"><br>
 </div>
+
+<h2 align="left">Certificates</h2>
+<ul>
+  <li><a href="path/to/your/certificate.pdf" target="_blank">Canva 101 Completion Certification</a></li>
+  <li><a href="path/to/your/certificate2.pdf" target="_blank">Other Certificate Name</a></li>
+</ul>
+
+
