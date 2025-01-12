@@ -7,7 +7,7 @@
 <ul>
   <li>💼 Currently working as a Web Developer at the University of the Fraser Valley</li>
   <li>🌱 I’m currently learning DevOps Tools like Node.js & Kubernetes</li>
-  <li>📫 You can reach me at <strong>harsharorapnp@gmail.com</strong></li>
+  <li>📫 You can reach me at <strong><a href="mailto:harsharorapnp@gmail.com">harsharorapnp@gmail.com</a></strong></li>
 </ul>
 <h2 align="left">Languages and Tools</h2>
 <div align="center">
