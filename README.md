@@ -17,7 +17,7 @@
 
 <h2 align="left">Certificates</h2>
 <ul>
-  <li><a href="path/to/your/certificate.pdf" target="_blank">Canva 101 Completion Certification</a></li>
+  <li><a href="Certificate-Java & C++.pdf" target="_blank">Certificate-Java & C++</a></li>
   <li><a href="path/to/your/certificate2.pdf" target="_blank">Other Certificate Name</a></li>
 </ul>
 
