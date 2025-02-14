@@ -18,7 +18,7 @@
 <h2 align="left">Certificates</h2>
 <ul>
   <li><a href="Coursera N8B23OENH9W0.pdf" target="_blank">Front-End Development-META</a></li>
-  <li><a href="Harsh Arora-Digital Marketing-Coursera 1SCCZETNYT8A (1).pdf" target="_blank">Certificate-Java & C++</a></li>
+  <li><a href="Harsh Arora-Digital Marketing-Coursera 1SCCZETNYT8A (1).pdf" target="_blank">Digital Marketing-Google</a></li>
   <li><a href="Certificate-Java & C++.pdf" target="_blank">Certificate-Java & C++</a></li>
   <li><a href="CSS for Beginners.pdf" target="_blank">CSS Certificate</a></li>
   <li><a href="Wordpress Certificate.pdf" target="_blank">Wordpress Certificate</a></li>
