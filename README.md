@@ -19,7 +19,7 @@
 <ul>
   <li><a href="Coursera N8B23OENH9W0.pdf" target="_blank">Front-End Development-META</a></li>
   <li><a href="Data Modeling.pdf" target="_blank">Data Modeling in Power BI</a></li>
-  <li><a href="Programming with JavaScript.pdf" target="_blank">Programming with JavaScript</a></li>
+  <li><a href="Javascript-Coursera 80RTOK6Y4WWP.pdf" target="_blank">Programming with JavaScript</a></li>
   <li><a href="Harsh Arora-Digital Marketing-Coursera 1SCCZETNYT8A (1).pdf" target="_blank">Digital Marketing-Google</a></li>
   <li><a href="Certificate-Java & C++.pdf" target="_blank">Certificate-Java & C++</a></li>
   <li><a href="CSS for Beginners.pdf" target="_blank">CSS Certificate</a></li>
