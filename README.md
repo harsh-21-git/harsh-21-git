@@ -2,7 +2,7 @@
 <h2 align="left">Glad to see you here!</h2>
 <h4>I am Harsh Arora, a third-year student pursuing a Bachelor of Computer Information Systems at the University of the Fraser Valley. I am an aspiring software developer with a demonstrated history of working on web development and data analysis projects. Skilled in HTML, CSS, Java, Python, MySQL, WordPress, Wix, APIs, Adobe Photoshop, and Figma. Strong engineering professional focused on building innovative web solutions and improving user experiences.</h3>
 
-<h2 align="left">Talking about my Perosnal Stuffs</h2>
+<h2 align="left">Talking about my Personal Stuffs</h2>
 
 <ul>
   <li>💼 Currently working as a Web Developer at the University of the Fraser Valley</li>
@@ -18,10 +18,10 @@
 <h2 align="left">Certificates</h2>
 <ul>
   <li><a href="Coursera N8B23OENH9W0.pdf" target="_blank">Front-End Development-META</a></li>
+  <li><a href="Data Modeling in Power Bi.pdf" target="_blank">Data Modeling in Power BI</a></li>
+  <li><a href="Programming with JavaScript.pdf" target="_blank">Programming with JavaScript</a></li>
   <li><a href="Harsh Arora-Digital Marketing-Coursera 1SCCZETNYT8A (1).pdf" target="_blank">Digital Marketing-Google</a></li>
   <li><a href="Certificate-Java & C++.pdf" target="_blank">Certificate-Java & C++</a></li>
   <li><a href="CSS for Beginners.pdf" target="_blank">CSS Certificate</a></li>
   <li><a href="Wordpress Certificate.pdf" target="_blank">Wordpress Certificate</a></li>
 </ul>
-
-
