@@ -11,7 +11,7 @@
 </ul>
 <h2 align="left">Languages and Tools</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,c,vscode,idea,js,github,mongodb,mysql,python,kubernetes"><br>
+    <img src="https://skillicons.dev/icons?i=html,css,c,vscode,idea,js,github,mongodb,PowerBI,mysql,python,kubernetes"><br>
     <img src="https://skillicons.dev/icons?i=wordpress,figma,pr,ai,discord,notion,linux"><br>
 </div>
 
